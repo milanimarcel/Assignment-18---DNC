@@ -2,6 +2,8 @@
 
 ![dnc](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn5oG261Ou-etE-0w9_hQfGun7H4qqoOCf1ZjZSDD4SuY04MA3iAwMF0WSd53LQW85Pt4&usqp=CAU)
 
+[-->>NoteBook Utilizado<<--](https://github.com/milanimarcel/Assignment-18-DNC/blob/main/Assignment_18.ipynb)
+
 Nesse assignment, nosso objetivo central é prever e desenvolver
 uma análise de um problema envolvendo a predição de
 doenças coronárias (do coração) utilizando um dataset público.
@@ -19,7 +21,7 @@ características e 1 variável alvo) sobre 303 pacientes.
 Fonte original dos dados:
 https://www.kaggle.com/ronitf/heart-disease-uci
 
-NoteBook Utilizado:
+
 
 
 
