@@ -48,4 +48,5 @@ repouso
 fluoroscopia)
 - thal: Talassemia -> 3 = normal; 6 = fixed defect; 7 = reversable
 defect
-Link: https://www.kaggle.com/ronitf/heart-disease-uci
+Link:
+https://www.kaggle.com/ronitf/heart-disease-uci
