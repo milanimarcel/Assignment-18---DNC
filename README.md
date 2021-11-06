@@ -1,5 +1,6 @@
 # Assignment-18-DNC
 
+![dnc](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn5oG261Ou-etE-0w9_hQfGun7H4qqoOCf1ZjZSDD4SuY04MA3iAwMF0WSd53LQW85Pt4&usqp=CAU)
 Nesse assignment, nosso objetivo central é prever e desenvolver
 uma análise de um problema envolvendo a predição de
 doenças coronárias (do coração) utilizando um dataset público.
